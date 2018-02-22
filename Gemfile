@@ -33,6 +33,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'faker',          '1.7.3'
 gem 'jquery-rails', '4.3.1'
 
+gem 'carrierwave',             '1.1.0'
+gem 'mini_magick',             '4.7.0'
+gem 'fog',                     '1.40.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
